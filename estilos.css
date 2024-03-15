@@ -1,0 +1,50 @@
+body{
+background-color: rgb(255, 255, 255);
+color: rgb(255, 255, 255);
+background-image: url(./imagens/fundo_3.jpg);
+
+}
+
+.img_d{
+border-radius: 30px;
+border-style: solid;
+
+}
+
+h1{
+ text-align: center;   
+
+}
+
+.imagens_direita{
+display: flex;
+margin-left: 320px ;
+}
+
+pre{
+    font-family: georgia;
+}
+
+.img_e{
+    border-radius: 30px;
+    border-style: solid;
+}
+
+.imagens_esquerda{
+    display: flex;
+    margin-left: 340px ;
+}
+
+.titulo{
+ display: flex;  
+
+}
+
+hr{
+height: 3px;
+background-color: black;
+}
+a{
+color: black;
+
+}
